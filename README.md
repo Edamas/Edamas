@@ -6,7 +6,6 @@ _**Hello, I’m Elysio Damasceno, a Data Science student at Univesp and a gradua
 I am seeking generalist internship opportunities in Data Science or specific roles in Machine Learning, Timeseries Analysis, and Geoprocessing.
 
 ## 💼 Professional Experience
-## 🎨 Portfolio
 ```
 The image bellow was made using Nasa images and Blender 3D for the project "Brasil Com Censo":
 ```
