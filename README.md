@@ -21,13 +21,13 @@ This project, using Python programming, QGis, Kaggle, and Quandl (now data.nasda
 
 > **Harvard CS50:**
 >
->![Fundamentos de Linguagem Python Para AnÃ¡lise de Dados e Data Science](https://img.shields.io/badge/Introduction_to_Programming_with_Python-555555?style=for-the-badge)
+> ![Introduction to Programming with Python](https://img.shields.io/badge/Introduction_to_Programming_with_Python-555555?style=for-the-badge)
 >
->[View Certificate](https://certificates.cs50.io/dca6ad90-66ab-4636-9186-70d556d48d52.pdf?size=letter)
+> [View Certificate](https://certificates.cs50.io/dca6ad90-66ab-4636-9186-70d556d48d52.pdf?size=letter)
 
 > **Data Science Academy:**
 >
->![Fundamentos de Linguagem Python Para AnÃ¡lise de Dados e Data Science](https://img.shields.io/badge/Fundamentos_de_Linguagem_Python_Para_AnÃ¡lise_de_Dados_e_Data_Science-555555?style=for-the-badge)
+> ![Fundamentos de Linguagem Python para Análise de Dados e Data Science](https://img.shields.io/badge/Fundamentos_de_Linguagem_Python_para_An%C3%A1lise_de_Dados_e_Data_Science-555555?style=for-the-badge)
 
 > **Universidade de São Paulo (USP EACH):**
 >
@@ -38,7 +38,6 @@ This project, using Python programming, QGis, Kaggle, and Quandl (now data.nasda
 >
 > [View Certificate](./assets/certificados/USP/usp-redes-complexas-2026/certificado.pdf) | [Download USP Certificate](http://uspdigital.usp.br/apolo/extDiplomaBaixar.jsp?codpubmtr=41BB39712ED4&nomsis=Apolo&codund=86&codcurceu=860400375&codedicurceu=25003&numseqofeedi=1) | [Open App](https://redes-complexas.streamlit.app/)
 
-
 > **Universidade de São Paulo (USP IMECC):**
 >
 > [![USP Course](https://img.shields.io/badge/Git_Avan%C3%A7ado_funcionamento_interno_e_pr%C3%A1tica-8C1515?style=for-the-badge&logo=google-scholar&logoColor=white)](./assets/certificados/USP/usp-git-avancado-2026/README.md)
@@ -47,9 +46,19 @@ This project, using Python programming, QGis, Kaggle, and Quandl (now data.nasda
 > [Course Overview](./assets/certificados/USP/usp-git-avancado-2026/README.md)
 >
 > [View Certificate](./assets/certificados/USP/usp-git-avancado-2026/certificado.pdf) | [Download USP Certificate](http://uspdigital.usp.br/apolo/extDiplomaBaixar.jsp?codpubmtr=A1BB3AFBE0BA&nomsis=Apolo&codund=45&codcurceu=450400304&codedicurceu=25001&numseqofeedi=1)
->**Instituto Cidades Responsivas:** 
+
+> **Universidade de São Paulo (USP IME):**
 >
->![ImersÃ£o_Urban_Data_Science](https://img.shields.io/badge/ImersÃ£o_Urban_Data_Science-555555?style=for-the-badge)
+> [![USP Course](https://img.shields.io/badge/%C3%81lgebra_Linear_-_IME--USP-8C1515?style=for-the-badge&logo=google-scholar&logoColor=white)](./assets/certificados/USP/usp-algebra-linear-ime-2026/README.md)
+> [![Streamlit App](https://img.shields.io/badge/Streamlit_App-workbenchsistemaslineares.streamlit.app-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://workbenchsistemaslineares.streamlit.app/)
+>
+> [Course Overview](./assets/certificados/USP/usp-algebra-linear-ime-2026/README.md)
+>
+> [View Certificate](./assets/certificados/USP/usp-algebra-linear-ime-2026/certificado.pdf) | [Open App](https://workbenchsistemaslineares.streamlit.app/)
+
+> **Instituto Cidades Responsivas:**
+>
+> ![Imersão Urban Data Science](https://img.shields.io/badge/Imers%C3%A3o_Urban_Data_Science-555555?style=for-the-badge)
 
 ## Technical Skills
 
