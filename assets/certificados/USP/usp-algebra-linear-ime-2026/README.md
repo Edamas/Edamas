@@ -32,6 +32,7 @@ Além da formação teórica, este curso gerou material de estudo próprio e des
 | --- | --- |
 | Certificado local | [Visualizar PDF](./certificado.pdf) |
 | Certificado para download | [Baixar PDF](https://raw.githubusercontent.com/Edamas/Edamas/main/assets/certificados/USP/usp-algebra-linear-ime-2026/certificado.pdf) |
+| Certificado oficial USP | [Baixar pelo Apolo](http://uspdigital.usp.br/apolo/extDiplomaBaixar.jsp?codpubmtr=21BB39F1EF72&nomsis=Apolo&codund=45&codcurceu=450400004&codedicurceu=25021&numseqofeedi=1) |
 | Descrição oficial do curso | [Visualizar arquivo](./descricao-oficial.txt) |
 | Descrição oficial para download | [Baixar arquivo](https://raw.githubusercontent.com/Edamas/Edamas/main/assets/certificados/USP/usp-algebra-linear-ime-2026/descricao-oficial.txt) |
 | Verificação de autenticidade | [USP WebDoc](http://uspdigital.usp.br/webdoc) |
@@ -95,32 +96,25 @@ O material local confirma um repositório diretamente ligado ao estudo do curso:
 
 - [Workbench_Sistemas_Lineares](https://github.com/Edamas/Workbench_Sistemas_Lineares)
 
-### Aplicação publicada
+### Aplicações publicadas
 
-Esta é a aplicação desenvolvida como frente prática mais claramente publicada a partir do estudo do curso:
+O estudo do curso gerou pelo menos duas aplicações publicadas na Streamlit Community Cloud:
 
 [![Streamlit](https://img.shields.io/badge/Streamlit-workbenchsistemaslineares.streamlit.app-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://workbenchsistemaslineares.streamlit.app/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-diagonalizacao.streamlit.app-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://diagonalizacao.streamlit.app/)
 
-Aplicação publicada via Streamlit Community Cloud.
+> Observação: como em outras aplicações da plataforma, se ficarem muito tempo sem acesso elas podem entrar em hibernação, mas costumam reativar rapidamente em um novo acesso.
 
-> Observação: como em outras aplicações da plataforma, se ficar muito tempo sem acesso ela pode entrar em hibernação, mas costuma reativar rapidamente em um novo acesso.
+### O que essas aplicações implementam
 
-### O que essa aplicação implementa
-
-- resolução passo a passo de sistemas lineares com operações elementares
-- escalonamento e forma escalonada reduzida
-- análise de pivôs, linhas nulas e contradições
-- classificação do sistema
-- histórico de operações, desfazer e refazer
-- geração de sistemas para treino
-- relatório detalhado da resolução
+- `Workbench de Sistemas Lineares`: resolução passo a passo com operações elementares, escalonamento, análise de pivôs, classificação do sistema, histórico de operações e relatório detalhado
+- `Calculadora de Diagonalização de Matrizes`: estudo de autovalores, autovetores e diagonalização com foco em clareza algébrica e interpretação estrutural
 
 ### Desdobramentos identificados no material local
 
-Além do workbench publicado, o workspace do curso mostra outras duas frentes de desenvolvimento:
+Além dos apps publicados, o workspace do curso mostra uma terceira frente de desenvolvimento:
 
 - `app2.py`: Assistente de Álgebra Linear Interativo, voltado a exercícios e resoluções
-- `app3.py`: Calculadora de Diagonalização de Matrizes
 
 O histórico do repositório local mostra evolução real desses artefatos, com commits específicos para refatoração, melhoria de interface, correções e uma versão dedicada à diagonalização. Isso reforça que o curso não ficou restrito ao estudo passivo: ele gerou prática, iteração e software.
 
@@ -148,3 +142,4 @@ Esse ponto aparece de forma muito concreta em diagonalização, mudança de base
 - [Descrição oficial do curso](./descricao-oficial.txt)
 - [Repositório Workbench_Sistemas_Lineares](https://github.com/Edamas/Workbench_Sistemas_Lineares)
 - [Aplicação publicada no Streamlit](https://workbenchsistemaslineares.streamlit.app/)
+- [Aplicação de diagonalização no Streamlit](https://diagonalizacao.streamlit.app/)

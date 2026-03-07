@@ -51,10 +51,11 @@ This project, using Python programming, QGis, Kaggle, and Quandl (now data.nasda
 >
 > [![USP Course](https://img.shields.io/badge/%C3%81lgebra_Linear_-_IME--USP-8C1515?style=for-the-badge&logo=google-scholar&logoColor=white)](./assets/certificados/USP/usp-algebra-linear-ime-2026/README.md)
 > [![Streamlit App](https://img.shields.io/badge/Streamlit_App-workbenchsistemaslineares.streamlit.app-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://workbenchsistemaslineares.streamlit.app/)
+> [![Streamlit App](https://img.shields.io/badge/Streamlit_App-diagonalizacao.streamlit.app-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://diagonalizacao.streamlit.app/)
 >
 > [Course Overview](./assets/certificados/USP/usp-algebra-linear-ime-2026/README.md)
 >
-> [View Certificate](./assets/certificados/USP/usp-algebra-linear-ime-2026/certificado.pdf) | [Open App](https://workbenchsistemaslineares.streamlit.app/)
+> [View Certificate](./assets/certificados/USP/usp-algebra-linear-ime-2026/certificado.pdf) | [Download USP Certificate](http://uspdigital.usp.br/apolo/extDiplomaBaixar.jsp?codpubmtr=21BB39F1EF72&nomsis=Apolo&codund=45&codcurceu=450400004&codedicurceu=25021&numseqofeedi=1) | [Open Workbench](https://workbenchsistemaslineares.streamlit.app/) | [Open Diagonalização](https://diagonalizacao.streamlit.app/)
 
 > **Instituto Cidades Responsivas:**
 >
@@ -132,11 +133,7 @@ This project, using Python programming, QGis, Kaggle, and Quandl (now data.nasda
 - **Problem-Solving**: Systematic and logical approach to complex challenges.
 
 ## Performance
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Edamas&show_icons=true&theme=transparent&bg_color=00000000&border_color=30A3DC&icon_color=30A3DC&title_color=E94D5F&text_color=FFFFFF&cache_seconds=86400)](https://github.com/Edamas)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Edamas&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edamas&layout=compact&bg_color=00000000&border_color=30A3DC&title_color=E94D5F&text_color=FFFFFF&cache_seconds=86400)](https://github.com/Edamas?tab=repositories)
 
 [![Codewars Profile Stats](https://github.r2v.ch/codewars?user=Edamas&top_languages=true&theme=gradient)](https://www.codewars.com/users/Edamas)
 
