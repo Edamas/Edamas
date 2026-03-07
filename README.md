@@ -31,8 +31,8 @@ This project, using Python programming, QGis, Kaggle, and Quandl (now data.nasda
 
 > **Universidade de São Paulo (USP EACH):**
 >
-> ![Introdução às Redes Complexas](https://img.shields.io/badge/Introdu%C3%A7%C3%A3o_%C3%A0s_Redes_Complexas_com_Python_e_IA%2FLLM-8C1515?style=for-the-badge&logo=google-scholar&logoColor=white)
-> ![Streamlit](https://img.shields.io/badge/Streamlit_App-redes--complexas.streamlit.app-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+> [![USP Course](https://img.shields.io/badge/Introdu%C3%A7%C3%A3o_%C3%A0s_Redes_Complexas_com_Python_e_IA%2FLLM-8C1515?style=for-the-badge&logo=google-scholar&logoColor=white)](./assets/certificados/USP/usp-redes-complexas-2026/README.md)
+> [![Streamlit App](https://img.shields.io/badge/Streamlit_App-redes--complexas.streamlit.app-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://redes-complexas.streamlit.app/)
 >
 > [Course Overview](./assets/certificados/USP/usp-redes-complexas-2026/README.md)
 >
