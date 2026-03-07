@@ -38,6 +38,15 @@ This project, using Python programming, QGis, Kaggle, and Quandl (now data.nasda
 >
 > [View Certificate](./assets/certificados/USP/usp-redes-complexas-2026/certificado.pdf) | [Download USP Certificate](http://uspdigital.usp.br/apolo/extDiplomaBaixar.jsp?codpubmtr=41BB39712ED4&nomsis=Apolo&codund=86&codcurceu=860400375&codedicurceu=25003&numseqofeedi=1) | [Open App](https://redes-complexas.streamlit.app/)
 
+
+> **Universidade de S�o Paulo (USP IMECC):**
+>
+> [![USP Course](https://img.shields.io/badge/Git_Avan%C3%A7ado_funcionamento_interno_e_pr%C3%A1tica-8C1515?style=for-the-badge&logo=google-scholar&logoColor=white)](./assets/certificados/USP/usp-git-avancado-2026/README.md)
+> [![Git](https://img.shields.io/badge/Git_Internals_%26_Practice-F05032?style=for-the-badge&logo=git&logoColor=white)](./assets/certificados/USP/usp-git-avancado-2026/README.md)
+>
+> [Course Overview](./assets/certificados/USP/usp-git-avancado-2026/README.md)
+>
+> [View Certificate](./assets/certificados/USP/usp-git-avancado-2026/certificado.pdf) | [Download USP Certificate](http://uspdigital.usp.br/apolo/extDiplomaBaixar.jsp?codpubmtr=A1BB3AFBE0BA&nomsis=Apolo&codund=45&codcurceu=450400304&codedicurceu=25001&numseqofeedi=1)
 >**Instituto Cidades Responsivas:** 
 >
 >![Imersão_Urban_Data_Science](https://img.shields.io/badge/Imersão_Urban_Data_Science-555555?style=for-the-badge)
