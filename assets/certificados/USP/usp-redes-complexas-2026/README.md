@@ -2,9 +2,9 @@
 
 <p align="center">
   <img alt="USP EACH" src="https://img.shields.io/badge/USP-EACH-8C1515?style=for-the-badge&logo=google-scholar&logoColor=white">
-  <img alt="Extensão" src="https://img.shields.io/badge/Curso%20de%20Extensão-Difusão-0A66C2?style=for-the-badge">
-  <img alt="Período" src="https://img.shields.io/badge/Período-26%20a%2029%20jan%202026-444444?style=for-the-badge">
-  <img alt="Carga horária" src="https://img.shields.io/badge/Carga%20horária-8h-2E7D32?style=for-the-badge">
+  <img alt="Extensão" src="https://img.shields.io/badge/Curso%20de%20Extens%C3%A3o-Difus%C3%A3o-0A66C2?style=for-the-badge">
+  <img alt="Período" src="https://img.shields.io/badge/Per%C3%ADodo-26%20a%2029%20jan%202026-444444?style=for-the-badge">
+  <img alt="Carga horária" src="https://img.shields.io/badge/Carga%20hor%C3%A1ria-8h-2E7D32?style=for-the-badge">
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
   <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
   <img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white">
   <img alt="NetworkX" src="https://img.shields.io/badge/NetworkX-An%C3%A1lise%20de%20Redes-1F4B99?style=for-the-badge">
-  <img alt="LLM" src="https://img.shields.io/badge/IA%2FLLM-Apoio%20ao%20desenvolvimento-6A1B9A?style=for-the-badge">
+  <img alt="IA/LLM" src="https://img.shields.io/badge/IA%2FLLM-Apoio%20ao%20desenvolvimento-6A1B9A?style=for-the-badge">
   <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white">
   <img alt="Spyder IDE" src="https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyderide&logoColor=white">
   <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white">

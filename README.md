@@ -1,11 +1,11 @@
 # Edamas
 
-_**Hello, I’m Elysio Damasceno, a Data Science student at Univesp and a graduate in Human Resource Management from UniRadial Estácio University Center.**_
+_**Hello, I'm Elysio Damasceno, a Data Science student at Univesp and a graduate in Human Resource Management from UniRadial Estácio University Center.**_
 
-## 🎯 Professional Objective
+## Professional Objective
 I am seeking generalist internship opportunities in Data Science or specific roles in Machine Learning, Timeseries Analysis, and Geoprocessing.
 
-## 💼 Professional Experience
+## Professional Experience
 ```
 The image bellow was made using Nasa images and Blender 3D for the project "Brasil Com Censo":
 ```
@@ -17,17 +17,17 @@ This project, using Python programming, QGis, Kaggle, and Quandl (now data.nasda
 - **Freelance, HR Projects (2007-2011)**: Development of MsAccess applications, database management, CRM, and performance evaluation.
 - **Backoffice Analyst, Submarino Viagens and Atento Brasil (2007-2011)**: Analysis of sales team results, customer support, and process optimization.
 
-## 🎓 Certifications
+## Certifications
 
 > **Harvard CS50:**
 >
->![Fundamentos de Linguagem Python Para Análise de Dados e Data Science](https://img.shields.io/badge/Introduction_to_Programming_with_Python-555555?style=for-the-badge)
+>![Fundamentos de Linguagem Python Para AnÃ¡lise de Dados e Data Science](https://img.shields.io/badge/Introduction_to_Programming_with_Python-555555?style=for-the-badge)
 >
 >[View Certificate](https://certificates.cs50.io/dca6ad90-66ab-4636-9186-70d556d48d52.pdf?size=letter)
 
 > **Data Science Academy:**
 >
->![Fundamentos de Linguagem Python Para Análise de Dados e Data Science](https://img.shields.io/badge/Fundamentos_de_Linguagem_Python_Para_Análise_de_Dados_e_Data_Science-555555?style=for-the-badge)
+>![Fundamentos de Linguagem Python Para AnÃ¡lise de Dados e Data Science](https://img.shields.io/badge/Fundamentos_de_Linguagem_Python_Para_AnÃ¡lise_de_Dados_e_Data_Science-555555?style=for-the-badge)
 
 > **Universidade de São Paulo (USP EACH):**
 >
@@ -39,7 +39,7 @@ This project, using Python programming, QGis, Kaggle, and Quandl (now data.nasda
 > [View Certificate](./assets/certificados/USP/usp-redes-complexas-2026/certificado.pdf) | [Download USP Certificate](http://uspdigital.usp.br/apolo/extDiplomaBaixar.jsp?codpubmtr=41BB39712ED4&nomsis=Apolo&codund=86&codcurceu=860400375&codedicurceu=25003&numseqofeedi=1) | [Open App](https://redes-complexas.streamlit.app/)
 
 
-> **Universidade de S�o Paulo (USP IMECC):**
+> **Universidade de São Paulo (USP IMECC):**
 >
 > [![USP Course](https://img.shields.io/badge/Git_Avan%C3%A7ado_funcionamento_interno_e_pr%C3%A1tica-8C1515?style=for-the-badge&logo=google-scholar&logoColor=white)](./assets/certificados/USP/usp-git-avancado-2026/README.md)
 > [![Git](https://img.shields.io/badge/Git_Internals_%26_Practice-F05032?style=for-the-badge&logo=git&logoColor=white)](./assets/certificados/USP/usp-git-avancado-2026/README.md)
@@ -49,9 +49,9 @@ This project, using Python programming, QGis, Kaggle, and Quandl (now data.nasda
 > [View Certificate](./assets/certificados/USP/usp-git-avancado-2026/certificado.pdf) | [Download USP Certificate](http://uspdigital.usp.br/apolo/extDiplomaBaixar.jsp?codpubmtr=A1BB3AFBE0BA&nomsis=Apolo&codund=45&codcurceu=450400304&codedicurceu=25001&numseqofeedi=1)
 >**Instituto Cidades Responsivas:** 
 >
->![Imersão_Urban_Data_Science](https://img.shields.io/badge/Imersão_Urban_Data_Science-555555?style=for-the-badge)
+>![ImersÃ£o_Urban_Data_Science](https://img.shields.io/badge/ImersÃ£o_Urban_Data_Science-555555?style=for-the-badge)
 
-## 🛠 Technical Skills
+## Technical Skills
 
 | Category                 | Badge                                                                                 | Description        | Experience  |
 |--------------------------|---------------------------------------------------------------------------------------|--------------------|--------------|
@@ -118,11 +118,11 @@ This project, using Python programming, QGis, Kaggle, and Quandl (now data.nasda
 |                          | ![Gimp](https://img.shields.io/badge/Gimp-cyan?style=for-the-badge&logo=gimp&logoColor=red)              | Open-source image editor | ██  |
 |                          | ![CorelDraw](https://img.shields.io/badge/CorelDraw-cyan?style=for-the-badge&logo=coreldraw&logoColor=red) | Vector graphics editor | ██  |
 
-## 🤝 Soft Skills
+## Soft Skills
 - **ENTP Profile**: Explorer, innovator, leadership skills, communicative, with analytical and problem-solving abilities.
 - **Problem-Solving**: Systematic and logical approach to complex challenges.
 
-## 📊 Performance
+## Performance
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Edamas&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Edamas&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
@@ -132,10 +132,10 @@ This project, using Python programming, QGis, Kaggle, and Quandl (now data.nasda
 [![Codewars Profile Stats](https://github.r2v.ch/codewars?user=Edamas&top_languages=true&theme=gradient)](https://www.codewars.com/users/Edamas)
 
 
-## 🌍 Community Involvement
+## Community Involvement
 Currently in my fourth integrative university project, collaborating in groups of up to 8 people. Projects range from waste management to applications of geographical data.
 
-## 🎨 Hobbies
+## Hobbies
 - **Photographer**: I was the official party photographer at USP and an early explorer of HDR (before it became trendy) and slitscan techniques.
 ![Elysio Damasceno - Party](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/8fce2855151445.5978c10029bff.jpg)
 `` The image above was made using more than 100 photos and Photoshop``
@@ -143,7 +143,7 @@ Currently in my fourth integrative university project, collaborating in groups o
 [![Edamas Clicks](https://img.shields.io/badge/Edamas_Clicks-1877F2?style=for-the-badge&logo=facebook)](www.facebook.com/EdamasClicks)
 
 
-## 🌐 Connect with Me
+## Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Edamas)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edamas/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/elysiod)
