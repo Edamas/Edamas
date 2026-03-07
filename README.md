@@ -29,6 +29,15 @@ This project, using Python programming, QGis, Kaggle, and Quandl (now data.nasda
 >
 >![Fundamentos de Linguagem Python Para Análise de Dados e Data Science](https://img.shields.io/badge/Fundamentos_de_Linguagem_Python_Para_Análise_de_Dados_e_Data_Science-555555?style=for-the-badge)
 
+> **Universidade de São Paulo (USP EACH):**
+>
+> ![Introdução às Redes Complexas](https://img.shields.io/badge/Introdu%C3%A7%C3%A3o_%C3%A0s_Redes_Complexas_com_Python_e_IA%2FLLM-8C1515?style=for-the-badge&logo=google-scholar&logoColor=white)
+> ![Streamlit](https://img.shields.io/badge/Streamlit_App-redes--complexas.streamlit.app-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+>
+> [Course Overview](./assets/certificados/USP/usp-redes-complexas-2026/README.md)
+>
+> [View Certificate](./assets/certificados/USP/usp-redes-complexas-2026/certificado.pdf) | [Download USP Certificate](http://uspdigital.usp.br/apolo/extDiplomaBaixar.jsp?codpubmtr=41BB39712ED4&nomsis=Apolo&codund=86&codcurceu=860400375&codedicurceu=25003&numseqofeedi=1) | [Open App](https://redes-complexas.streamlit.app/)
+
 >**Instituto Cidades Responsivas:** 
 >
 >![Imersão_Urban_Data_Science](https://img.shields.io/badge/Imersão_Urban_Data_Science-555555?style=for-the-badge)
