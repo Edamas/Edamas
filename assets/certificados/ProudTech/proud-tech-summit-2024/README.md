@@ -11,9 +11,9 @@
 
 ## Resumo
 
-Certificação de participação no `Proud Tech Summit 2024`, evento promovido pelo ecossistema Proud Tech do Grupo Softplan. O material local não traz anotações extensas nem conteúdo programático próprio, mas o certificado e as fontes públicas do evento permitem identificar com segurança o contexto geral: um summit voltado a inovação, inteligência artificial, produto, desenvolvimento e práticas contemporâneas de tecnologia.
+Certificação de participação no `Proud Tech Summit 2024`, realizado em `10 de setembro de 2024`, com o tema `Inovação e Inteligência Artificial`. De acordo com o próprio certificado, o evento foi organizado pelo `Grupo Softplan` e ofereceu uma imersão em conteúdos inovadores por meio de palestras com especialistas em tecnologia, totalizando `7 horas e 30 minutos`.
 
-Pelas fontes públicas consultadas, o evento teve participação presencial para públicos internos e transmissão on-line aberta ao público em parte da programação. O eixo temático mais forte em 2024 foi o papel da `IA` como tecnologia estrutural, com palestras e workshops sobre aplicações práticas, desenvolvimento de produtos, design, low-code e uso corporativo de plataformas de IA.
+As fontes públicas consultadas reforçam esse enquadramento geral do evento como um summit de tecnologia voltado a inovação, inteligência artificial e troca de conhecimento com especialistas do mercado.
 
 ---
 
@@ -23,7 +23,6 @@ Pelas fontes públicas consultadas, o evento teve participação presencial para
 | --- | --- |
 | Certificado local | [Visualizar PDF](./certificado.pdf) |
 | Certificado para download | [Baixar PDF](https://raw.githubusercontent.com/Edamas/Edamas/main/assets/certificados/ProudTech/proud-tech-summit-2024/certificado.pdf) |
-| Certificado oficial | [Abrir certificado Blueticket](https://soulapi.blueticket.com.br/api/v2/order/certificate/eyJldmVudElkIjozNTY3NSwidGlja2V0SWQiOjg5MDQ3MzYyLCJ0aWNrZXRTdGFtcCI6MTcyNDgyNjMwMX0=) |
 
 ---
 
@@ -34,47 +33,42 @@ Pelas fontes públicas consultadas, o evento teve participação presencial para
 | Evento | Proud Tech Summit 2024 |
 | Organização associada | Proud Tech / Grupo Softplan |
 | Ano | 2024 |
+| Data do evento | 10/09/2024 |
 | Carga horária | 7 horas e 30 minutos |
-| Formato identificado | Summit com atividades presenciais e on-line |
-| Data pública identificada | 10 e 11 de setembro de 2024 |
 | Participação certificada | Participação no evento |
-
-> Observação: a carga horária usada neste dossiê vem do certificado informado por você. A programação pública consultada descreve o summit em dois dias, com parte do acesso aberta ao público e parte voltada ao público interno.
+| Tema | Inovação e Inteligência Artificial |
+| Assinatura no certificado | Guilherme Brasil, CTO |
 
 ---
 
 ## Conteúdo Identificado em Fontes Públicas
 
-Como o material local não trouxe programa próprio nem notas do evento, este resumo foi montado a partir das fontes públicas do `Proud Tech` e do guia de participante disponível on-line.
+Como o material local não trouxe programa próprio nem notas do evento, este resumo complementar foi montado a partir de páginas públicas sobre a edição de 2024.
 
 ### Eixos temáticos mais visíveis
 
 - inovação em tecnologia
 - inteligência artificial como base estratégica
-- aplicações corporativas de IA
-- produto e design com apoio de IA
-- desenvolvimento low-code
-- workshops práticos com plataformas e ferramentas de mercado
+- aplicações práticas de IA
+- produto e desenvolvimento
+- troca de conhecimento com especialistas do mercado
 
 ### Sessões e tópicos identificados publicamente
 
-Entre os conteúdos mencionados nas fontes públicas consultadas, aparecem:
+As páginas públicas da edição de 2024 destacam:
 
-- `IA como tecnologia estrutural: o alicerce do futuro`
-- reflexões sobre adoção de IA e dilema `buy or build`
-- `IA para designers`, com foco em processos criativos
-- criação de aplicações de IA generativa com `Amazon Bedrock`
-- desenvolvimento low-code com `Oracle APEX`
-- agentes de IA aplicados ao dia a dia
-- inovação em produto com `Minimum Lovable Product (MLP)`
+- foco temático em `Inovação e Inteligência Artificial`
+- palestras com especialistas de mercado
+- participação de nomes como `Bernard de Luna`, `Magno Maciel` e `Dani Lopes`
+- proposta de compartilhar conhecimento, tendências e aplicações relevantes para o mercado de tecnologia
 
-Esses tópicos indicam que o summit teve perfil mais executivo-aplicado do que acadêmico, concentrando-se em tendências, ferramentas e adoção prática em ambientes reais de produto e tecnologia.
+Com isso, o evento se posiciona mais como atualização estratégica e repertório de mercado do que como formação técnica aprofundada em uma única ferramenta ou framework.
 
 ---
 
 ## Meu Parecer
 
-Mesmo sem um volume grande de anotações locais, este certificado contribui para o portfólio por registrar participação em um evento claramente alinhado a temas contemporâneos de tecnologia, especialmente `IA`, produto e inovação aplicada.
+Mesmo sem um volume grande de anotações locais, este certificado contribui para o portfólio por registrar participação em um evento alinhado a temas centrais da tecnologia contemporânea, especialmente `IA`, inovação e aplicações práticas no mercado.
 
 O valor principal aqui parece estar menos em profundidade curricular e mais em atualização de repertório. Eventos como esse ajudam a acompanhar linguagem de mercado, ferramentas em evidência, casos de uso e discussões estratégicas que frequentemente antecipam movimentos relevantes em desenvolvimento de software e dados.
 
@@ -84,7 +78,6 @@ Para o portfólio, este summit funciona bem como evidência de atualização con
 
 ## Fontes
 
-- [Página oficial do Proud Tech](https://www.proudtech.com.br/)
-- [Certificado Blueticket informado](https://soulapi.blueticket.com.br/api/v2/order/certificate/eyJldmVudElkIjozNTY3NSwidGlja2V0SWQiOjg5MDQ3MzYyLCJ0aWNrZXRTdGFtcCI6MTcyNDgyNjMwMX0=)
-- [Notícia da ACATE sobre o Proud Tech Summit 2024](https://conteudo.acate.com.br/noticia/proud-tech-summit-2024)
-- [Guia do participante do Proud Tech 2024](https://pt.scribd.com/document/799865900/Guia-do-Participante-Proud-Tech-2024-OFICIAL)
+- [Agenda da ACATE: Proud Tech Summit 2024](https://www.acate.com.br/agenda-de-eventos/proud-tech-summit-2024/)
+- [Página da Softplan sobre o Proud Tech](https://conteudo.softplan.com.br/proud-tech-backup)
+- [Página da Softplan com retrospectiva do Proud Tech Summit](https://conteudo.softplan.com.br/proud-tech-summit)
