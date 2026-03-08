@@ -1,0 +1,24 @@
+Python
+Sistema de banco
+Versão 1:
+    1 usuário
+    Não precisa identificar o número da agência ou conta
+    Formato:
+        1500.45 = R$ 1500.45    
+    Operações:
+        Depósito:
+            Valores positivos (não permitir valores negativos)
+            Devem ser armazenados em uma variável
+        Saque:
+            Até 3 saques diários
+            500 reais no máximo por saque
+            Informar quando não será possível sacar o dinheiro por falta de saldo
+            Devem ser armazenados em uma variável
+        Extrato:
+            Depósitos
+            Saques
+            Saldo
+
+             
+
+
