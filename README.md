@@ -18,48 +18,16 @@ This project, using Python programming, QGis, Kaggle, and Quandl (now data.nasda
 - **Backoffice Analyst, Submarino Viagens and Atento Brasil (2007-2011)**: Analysis of sales team results, customer support, and process optimization.
 
 ## Certifications
+| Instituição | Curso | Ano | Carga horária | Resumo | Links |
+| --- | --- | --- | --- | --- | --- |
+| ![Harvard](https://img.shields.io/badge/Harvard-CS50-A51C30?style=flat-square) | CS50's Introduction to Programming with Python | A confirmar | 10 semanas, 3 a 9h/sem | Introdução prática a Python com foco em fundamentos, depuração, testes, expressões regulares, arquivos e orientação a objetos. | Curso: [https://harvardonline.harvard.edu/course/cs50s-introduction-programming-python](https://harvardonline.harvard.edu/course/cs50s-introduction-programming-python)<br>Certificado: [https://certificates.cs50.io/dca6ad90-66ab-4636-9186-70d556d48d52.pdf?size=letter](https://certificates.cs50.io/dca6ad90-66ab-4636-9186-70d556d48d52.pdf?size=letter) |
+| ![DSA](https://img.shields.io/badge/DSA-Data%20Science%20Academy-0056D2?style=flat-square) | Fundamentos de Linguagem Python para Análise de Dados e Data Science | A confirmar | 72 h/a | Formação introdutória em Python voltada a análise de dados e data science, com exercícios, projetos e aplicação progressiva do básico ao nível intermediário. | Curso: [https://www.datascienceacademy.com.br/course?courseid=fundamentos-de-linguagem-python-para-analise-de-dados-e-data-science](https://www.datascienceacademy.com.br/course?courseid=fundamentos-de-linguagem-python-para-analise-de-dados-e-data-science) |
+| ![USP EACH](https://img.shields.io/badge/USP-EACH-8C1515?style=flat-square&logo=google-scholar&logoColor=white) | Introdução às Redes Complexas com Python e IA/LLM | 2026 | 8 horas | Curso aplicado sobre sistemas complexos, grafos, métricas de rede, modelos clássicos e experimentação em Python com desdobramento em app publicado. | Dossiê: [./assets/certificados/USP/usp-redes-complexas-2026/README.md](./assets/certificados/USP/usp-redes-complexas-2026/README.md)<br>Certificado local: [./assets/certificados/USP/usp-redes-complexas-2026/certificado.pdf](./assets/certificados/USP/usp-redes-complexas-2026/certificado.pdf)<br>Certificado USP: [http://uspdigital.usp.br/apolo/extDiplomaBaixar.jsp?codpubmtr=41BB39712ED4&nomsis=Apolo&codund=86&codcurceu=860400375&codedicurceu=25003&numseqofeedi=1](http://uspdigital.usp.br/apolo/extDiplomaBaixar.jsp?codpubmtr=41BB39712ED4&nomsis=Apolo&codund=86&codcurceu=860400375&codedicurceu=25003&numseqofeedi=1)<br>App: [https://redes-complexas.streamlit.app/](https://redes-complexas.streamlit.app/) |
+| ![USP IMECC](https://img.shields.io/badge/USP-IMECC-8C1515?style=flat-square&logo=google-scholar&logoColor=white) | Git Avançado: Funcionamento Interno e Prática - EaD | 2026 | 13h30 | Curso de aprofundamento em Git, com foco em objetos, referências, merge, rebase, reflog, recuperação de histórico e uso mais consciente de GitHub e GitLab. | Dossiê: [./assets/certificados/USP/usp-git-avancado-2026/README.md](./assets/certificados/USP/usp-git-avancado-2026/README.md)<br>Certificado local: [./assets/certificados/USP/usp-git-avancado-2026/certificado.pdf](./assets/certificados/USP/usp-git-avancado-2026/certificado.pdf)<br>Certificado USP: [http://uspdigital.usp.br/apolo/extDiplomaBaixar.jsp?codpubmtr=A1BB3AFBE0BA&nomsis=Apolo&codund=45&codcurceu=450400304&codedicurceu=25001&numseqofeedi=1](http://uspdigital.usp.br/apolo/extDiplomaBaixar.jsp?codpubmtr=A1BB3AFBE0BA&nomsis=Apolo&codund=45&codcurceu=450400304&codedicurceu=25001&numseqofeedi=1) |
+| ![USP IME](https://img.shields.io/badge/USP-IME-8C1515?style=flat-square&logo=google-scholar&logoColor=white) | Álgebra Linear - IME-USP | 2026 | 60 horas | Formação densa em sistemas lineares, espaços vetoriais, transformações lineares, diagonalização, determinantes e ortogonalidade, com desdobramento em apps educacionais. | Dossiê: [./assets/certificados/USP/usp-algebra-linear-ime-2026/README.md](./assets/certificados/USP/usp-algebra-linear-ime-2026/README.md)<br>Certificado local: [./assets/certificados/USP/usp-algebra-linear-ime-2026/certificado.pdf](./assets/certificados/USP/usp-algebra-linear-ime-2026/certificado.pdf)<br>Certificado USP: [http://uspdigital.usp.br/apolo/extDiplomaBaixar.jsp?codpubmtr=21BB39F1EF72&nomsis=Apolo&codund=45&codcurceu=450400004&codedicurceu=25021&numseqofeedi=1](http://uspdigital.usp.br/apolo/extDiplomaBaixar.jsp?codpubmtr=21BB39F1EF72&nomsis=Apolo&codund=45&codcurceu=450400004&codedicurceu=25021&numseqofeedi=1)<br>Workbench: [https://workbenchsistemaslineares.streamlit.app/](https://workbenchsistemaslineares.streamlit.app/)<br>Diagonalização: [https://diagonalizacao.streamlit.app/](https://diagonalizacao.streamlit.app/) |
+| ![ICR](https://img.shields.io/badge/ICR-Urban%20Data%20Science-444444?style=flat-square) | Imersão Urban Data Science | 2023 | 4 horas | Imersão curta em urban data science com foco em leitura, uso e interpretação de dados urbanos para análise territorial e apoio à tomada de decisão. | Instituto: [https://www.responsivecities.com/](https://www.responsivecities.com/) |
 
-> **Harvard CS50:**
->
-> ![Introduction to Programming with Python](https://img.shields.io/badge/Introduction_to_Programming_with_Python-555555?style=for-the-badge)
->
-> [View Certificate](https://certificates.cs50.io/dca6ad90-66ab-4636-9186-70d556d48d52.pdf?size=letter)
-
-> **Data Science Academy:**
->
-> ![Fundamentos de Linguagem Python para Análise de Dados e Data Science](https://img.shields.io/badge/Fundamentos_de_Linguagem_Python_para_An%C3%A1lise_de_Dados_e_Data_Science-555555?style=for-the-badge)
-
-> **Universidade de São Paulo (USP EACH):**
->
-> [![USP Course](https://img.shields.io/badge/Introdu%C3%A7%C3%A3o_%C3%A0s_Redes_Complexas_com_Python_e_IA%2FLLM-8C1515?style=for-the-badge&logo=google-scholar&logoColor=white)](./assets/certificados/USP/usp-redes-complexas-2026/README.md)
-> [![Streamlit App](https://img.shields.io/badge/Streamlit_App-redes--complexas.streamlit.app-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://redes-complexas.streamlit.app/)
->
-> [Course Overview](./assets/certificados/USP/usp-redes-complexas-2026/README.md)
->
-> [View Certificate](./assets/certificados/USP/usp-redes-complexas-2026/certificado.pdf) | [Download USP Certificate](http://uspdigital.usp.br/apolo/extDiplomaBaixar.jsp?codpubmtr=41BB39712ED4&nomsis=Apolo&codund=86&codcurceu=860400375&codedicurceu=25003&numseqofeedi=1) | [Open App](https://redes-complexas.streamlit.app/)
-
-> **Universidade de São Paulo (USP IMECC):**
->
-> [![USP Course](https://img.shields.io/badge/Git_Avan%C3%A7ado_funcionamento_interno_e_pr%C3%A1tica-8C1515?style=for-the-badge&logo=google-scholar&logoColor=white)](./assets/certificados/USP/usp-git-avancado-2026/README.md)
-> [![Git](https://img.shields.io/badge/Git_Internals_%26_Practice-F05032?style=for-the-badge&logo=git&logoColor=white)](./assets/certificados/USP/usp-git-avancado-2026/README.md)
->
-> [Course Overview](./assets/certificados/USP/usp-git-avancado-2026/README.md)
->
-> [View Certificate](./assets/certificados/USP/usp-git-avancado-2026/certificado.pdf) | [Download USP Certificate](http://uspdigital.usp.br/apolo/extDiplomaBaixar.jsp?codpubmtr=A1BB3AFBE0BA&nomsis=Apolo&codund=45&codcurceu=450400304&codedicurceu=25001&numseqofeedi=1)
-
-> **Universidade de São Paulo (USP IME):**
->
-> [![USP Course](https://img.shields.io/badge/%C3%81lgebra_Linear_-_IME--USP-8C1515?style=for-the-badge&logo=google-scholar&logoColor=white)](./assets/certificados/USP/usp-algebra-linear-ime-2026/README.md)
-> [![Streamlit App](https://img.shields.io/badge/Streamlit_App-workbenchsistemaslineares.streamlit.app-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://workbenchsistemaslineares.streamlit.app/)
-> [![Streamlit App](https://img.shields.io/badge/Streamlit_App-diagonalizacao.streamlit.app-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://diagonalizacao.streamlit.app/)
->
-> [Course Overview](./assets/certificados/USP/usp-algebra-linear-ime-2026/README.md)
->
-> [View Certificate](./assets/certificados/USP/usp-algebra-linear-ime-2026/certificado.pdf) | [Download USP Certificate](http://uspdigital.usp.br/apolo/extDiplomaBaixar.jsp?codpubmtr=21BB39F1EF72&nomsis=Apolo&codund=45&codcurceu=450400004&codedicurceu=25021&numseqofeedi=1) | [Open Workbench](https://workbenchsistemaslineares.streamlit.app/) | [Open Diagonalização](https://diagonalizacao.streamlit.app/)
-
-> **Instituto Cidades Responsivas:**
->
-> ![Imersão Urban Data Science](https://img.shields.io/badge/Imers%C3%A3o_Urban_Data_Science-555555?style=for-the-badge)
+> Nota: os anos de conclusão de Harvard CS50 e Data Science Academy não aparecem no material local deste repositório. Se você me passar as datas exatas dos certificados, eu atualizo a tabela sem usar “A confirmar”.
 
 ## Technical Skills
 
