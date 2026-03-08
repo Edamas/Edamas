@@ -33,7 +33,7 @@ Na página principal do perfil, este conjunto aparece consolidado pelo certifica
 
 | Certificado | Tipo | Conclusão | CH | Código | Acesso |
 | --- | --- | --- | --- | --- | --- |
-| Criando um Sistema Bancário com Python | Projeto | 25/08/2024 | 1h | `J5F17LZU` | [PDF](./Criando%20um%20Sistema%20Banc%C3%A1rio%20com%20Python%20-%20J5F17LZU.pdf) |
+| Criando um Sistema Bancário com Python | Projeto | 25/08/2024 | 1h | `J5F17LZU` | [PDF](./Criando%20um%20Sistema%20Banc%C3%A1rio%20com%20Python%20-%20J5F17LZU.pdf)<br>[Repo](https://github.com/Edamas/DIO_banco) |
 | Desafios de Projetos: Crie Um Portfólio Vencedor | Curso | 26/08/2024 | 1h | `PX0EMCI0` | [PDF](./Desafios%20de%20Projetos%20-%20Crie%20Um%20Portf%C3%B3lio%20Vencedor%20-%20PX0EMCI0.pdf) |
 | Introdução a Engenharia de Dados com Python | Curso | 21/08/2024 | 1h | `WQNKM5KR` | [PDF](./Introdu%C3%A7%C3%A3o%20a%20Engenharia%20de%20Dados%20com%20Python%20-%20WQNKM5KR.pdf) |
 
@@ -41,7 +41,7 @@ Na página principal do perfil, este conjunto aparece consolidado pelo certifica
 
 | Certificado | Tipo | Conclusão | CH | Código | Acesso |
 | --- | --- | --- | --- | --- | --- |
-| Contribuindo em um Projeto Open Source no GitHub | Projeto | 26/08/2024 | 1h | `QN9RJ71X` | [PDF](./Contribuindo%20em%20um%20Projeto%20Open%20Source%20no%20GitHub%20-%20QN9RJ71X.pdf) |
+| Contribuindo em um Projeto Open Source no GitHub | Projeto | 26/08/2024 | 1h | `QN9RJ71X` | [PDF](./Contribuindo%20em%20um%20Projeto%20Open%20Source%20no%20GitHub%20-%20QN9RJ71X.pdf)<br>[Repo](https://github.com/Edamas/dio-lab-open-source) |
 | Versionamento de Código com Git e GitHub | Curso | 2024 | 2h | `9QJCHBJU` | [WEBP](./Versionamento%20de%20C%C3%B3digo%20com%20Git%20e%20GitHub%20-%209QJCHBJU.webp) |
 
 ## Evidência prática local
@@ -51,6 +51,11 @@ Há também evidências locais de exercício e prática:
 - [banco.py](./banco.py)
 - [tabela-de-cursos.csv](./tabela-de-cursos.csv)
 - [requisitos.txt](./requisitos.txt)
+
+## Repositórios relacionados
+
+- [DIO_banco](https://github.com/Edamas/DIO_banco)
+- [dio-lab-open-source](https://github.com/Edamas/dio-lab-open-source)
 
 ## Meu Parecer
 

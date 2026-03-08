@@ -40,6 +40,12 @@ De forma objetiva, o curso cobre:
 - expressões regulares
 - orientação a objetos
 
+## Repositório relacionado
+
+| Recurso | Acesso |
+| --- | --- |
+| Exercícios e entregas do curso | [CS50P_2022](https://github.com/Edamas/CS50P_2022) |
+
 ## Meu Parecer
 
 Curso forte para consolidar base de programação em Python com prática real. A exigência de problem sets e projeto final dá um peso maior do que cursos apenas expositivos.
